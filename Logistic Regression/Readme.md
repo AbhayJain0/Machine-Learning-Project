@@ -8,4 +8,7 @@ The other solution, such as logistic regression, is to make a prediction on the 
 
 ![alt text](https://miro.medium.com/max/303/1*-XcDnVV0LLpV5XyZ2fqcig.gif)
 
-The sigmoid function gives an S-shaped curve and saturates when its argument is very positive or very negative. Take a moment to note down the formula. We will apply it later in the maximum likely estimation.
+The sigmoid function gives an S-shaped curve and saturates when its argument is very positive or very negative. 
+
+The figure of sigmoid function:
+![alt text](https://miro.medium.com/max/1400/1*UnSW1b5LdpFlBx5hR54J0w.png)
